@@ -1,8 +1,8 @@
-# My name
+## My name
 
 Chan Long Huen
 
-# How to call me
+## How to call me
 
 Any of the following will work well:
 
@@ -21,7 +21,7 @@ Any of the following will work well:
 * Chan San
 
 
-# Markdown features testing
+## Markdown features testing
 
 **THIS IS AN EMPHASIS**
 
@@ -45,3 +45,9 @@ two plus two is
  * [x] three
 
 quick maths
+
+## Screenshots
+
+![](https://github.com/csci3251-2020/student-1155127307/blob/master/1.png)
+
+![](https://github.com/csci3251-2020/student-1155127307/blob/master/2.png)
