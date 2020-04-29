@@ -20,6 +20,13 @@ Any of the following will work well:
 
 * Chan San
 
+## My profession
+
+* Sleeping
+
+* Appreciating memes
+
+* Taiko no Tatsujin (I'm 10-dan in the latest arcade version!)
 
 ## Markdown features testing
 
