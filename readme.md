@@ -26,6 +26,8 @@ Any of the following will work well:
 
 * Appreciating memes
 
+* Working on assignments ans projects just before deadline
+
 * Taiko no Tatsujin (I'm 10-dan in the latest arcade version!)
 
 ## Markdown features testing
