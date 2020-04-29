@@ -28,7 +28,7 @@ Any of the following will work well:
 
 * Working on assignments and projects just before deadline
 
-* Taiko no Tatsujin (I'm 10-dan in the latest arcade version!)
+* Taiko no Tatsujin (I'm 10-dan in the latest arcade version, and will aim Kurouto in the next!)
 
 ## Markdown features testing
 
